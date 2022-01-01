@@ -25,7 +25,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "tsc --init --sourceMap  --module es2015  --target es6",
+	"postCreateCommand": "tsc --init --sourceMap  --module es2015  --target es2015",
 
 	// Comment out connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "node"
