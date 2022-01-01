@@ -1,7 +1,7 @@
 # node-typescript-devtainer
+- This devtainer is based on vscode-node-typescript devtainer
 
 ## to run this devtainer
-- This devtainer is based on vscode-node-typescript devtainer
 - git clone this_git_address .
 - code .
 - reopen in the container
